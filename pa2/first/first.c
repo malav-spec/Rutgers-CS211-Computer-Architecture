@@ -1,3 +1,4 @@
+/* SOLVE A 16*16 HEXADOKU WITH HEXADECIMAL NUMBERS*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
